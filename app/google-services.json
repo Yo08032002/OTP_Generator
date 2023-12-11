@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636592132056",
+    "project_id": "otp-generator-3f912",
+    "storage_bucket": "otp-generator-3f912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636592132056:android:7329bdb4d2acdaccfdecad",
+        "android_client_info": {
+          "package_name": "com.example.otp_generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfjqKMnS2eBocIx8skJp4GJyySc3yqxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

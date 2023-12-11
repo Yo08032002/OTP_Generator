@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Otp_Generator</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_your_phone_no">Enter your Phone no.</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="login_text">Login</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="string_login_text">\@string/login_text</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="hlo">HLO</string>
+</resources>
